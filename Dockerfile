@@ -5,5 +5,6 @@ RUN apt-get update && apt-get install -y \
 	build-essential \
 	cmake	\
 	git \
+	vim \
 	libm4ri-dev \
 	libgmp3-dev \
