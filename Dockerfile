@@ -11,5 +11,5 @@ RUN apt-get update && apt-get install -y \
 	libboost-all-dev \
 	zlib1g-dev \
 	libtbb-dev \
-    && git config --global user.email "uddaloksarkar@gmail.com" \ 
-    && git config --global user.name "uddalok" \
+    && git config --global user.email "your-email" \ 
+    && git config --global user.name "your-name" \
